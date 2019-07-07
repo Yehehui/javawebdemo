@@ -1,0 +1,7 @@
+cn\mju\edu\DAO\UserDAO.class
+cn\mju\edu\service\UserService.class
+cn\mju\edu\servlet\DeleteUserServlet.class
+cn\mju\edu\javabean\User.class
+cn\mju\edu\servlet\UpdateUserServlet.class
+cn\mju\edu\servlet\toUpdate.class
+cn\mju\edu\servlet\ShowUsers.class
